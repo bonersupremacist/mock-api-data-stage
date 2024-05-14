@@ -1,0 +1,108 @@
+{
+  "FastestGrowingAssets": [ "Asset1", "Asset2", "Asset3", "Asset4", "Asset5" ],
+  "BiggestAssets": [ "Asset6", "Asset7", "Asset8" ],
+  "UptimeStorageSystemChart": [
+    {
+      "date": "2024-05-01",
+      "uptime": 99.8
+    },
+    {
+      "date": "2024-05-02",
+      "uptime": 99.7
+    },
+    {
+      "date": "2024-05-03",
+      "uptime": 99.9
+    },
+    {
+      "date": "2024-05-04",
+      "uptime": 99.5
+    },
+    {
+      "date": "2024-05-05",
+      "uptime": 99.6
+    },
+    {
+      "date": "2024-05-06",
+      "uptime": 99.7
+    },
+    {
+      "date": "2024-05-07",
+      "uptime": 99.9
+    }
+  ],
+  "AvailableCapacityChart": [
+    {
+      "date": "2024-05-01",
+      "usedCapacity": 500,
+      "availableCapacity": 1500
+    },
+    {
+      "date": "2024-05-02",
+      "usedCapacity": 600,
+      "availableCapacity": 1400
+    },
+    {
+      "date": "2024-05-03",
+      "usedCapacity": 550,
+      "availableCapacity": 1450
+    },
+    {
+      "date": "2024-05-04",
+      "usedCapacity": 700,
+      "availableCapacity": 1300
+    },
+    {
+      "date": "2024-05-05",
+      "usedCapacity": 750,
+      "availableCapacity": 1250
+    },
+    {
+      "date": "2024-05-06",
+      "usedCapacity": 800,
+      "availableCapacity": 1200
+    },
+    {
+      "date": "2024-05-07",
+      "usedCapacity": 850,
+      "availableCapacity": 1150
+    }
+  ],
+  "Overall_latency": 2.5,
+  "Overall_IOPS": 8000,
+  "Overall_Throughput": 3000,
+  "IOPSperAsset": [
+    {
+      "assetName": "Asset1",
+      "IOPS": 1500
+    },
+    {
+      "assetName": "Asset2",
+      "IOPS": 2000
+    },
+    {
+      "assetName": "Asset3",
+      "IOPS": 1000
+    },
+    {
+      "assetName": "Asset4",
+      "IOPS": 800
+    },
+    {
+      "assetName": "Asset5",
+      "IOPS": 700
+    },
+    {
+      "assetName": "Asset6",
+      "IOPS": 1200
+    },
+    {
+      "assetName": "Asset7",
+      "IOPS": 900
+    },
+    {
+      "assetName": "Asset8",
+      "IOPS": 1000
+    }
+  ]
+}

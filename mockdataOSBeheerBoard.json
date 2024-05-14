@@ -1,0 +1,210 @@
+{
+  "licenses": [
+    {
+      "license": "License A",
+      "expiryDate": "2024-12-31"
+    },
+    {
+      "license": "License B",
+      "expiryDate": "2023-08-15"
+    },
+    {
+      "license": "License C",
+      "expiryDate": "2025-05-20"
+    },
+    {
+      "license": "License D",
+      "expiryDate": "2023-11-30"
+    },
+    {
+      "license": "License E",
+      "expiryDate": "2022-09-10"
+    },
+    {
+      "license": "License F",
+      "expiryDate": "2026-03-05"
+    },
+    {
+      "license": "License G",
+      "expiryDate": "2024-06-18"
+    },
+    {
+      "license": "License H",
+      "expiryDate": "2023-10-22"
+    },
+    {
+      "license": "License I",
+      "expiryDate": "2025-09-15"
+    },
+    {
+      "license": "License J",
+      "expiryDate": "2023-04-28"
+    }
+  ],
+  "assets": [
+    {
+      "title": "Asset 1",
+      "function": "Function A",
+      "eosEolStatus": "End of Support",
+      "memoryUsage": 256,
+      "bandwidthUsage": 100,
+      "availability": 0.95
+    },
+    {
+      "title": "Asset 2",
+      "function": "Function B",
+      "eosEolStatus": "End of Life",
+      "memoryUsage": 512,
+      "bandwidthUsage": 200,
+      "availability": 0.85
+    },
+    {
+      "title": "Asset 3",
+      "function": "Function C",
+      "eosEolStatus": "End of Support",
+      "memoryUsage": 1024,
+      "bandwidthUsage": 300,
+      "availability": 0.92
+    },
+    {
+      "title": "Asset 4",
+      "function": "Function D",
+      "eosEolStatus": "End of Life",
+      "memoryUsage": 2048,
+      "bandwidthUsage": 400,
+      "availability": 0.78
+    },
+    {
+      "title": "Asset 5",
+      "function": "Function E",
+      "eosEolStatus": "End of Support",
+      "memoryUsage": 4096,
+      "bandwidthUsage": 500,
+      "availability": 0.88
+    },
+    {
+      "title": "Asset 6",
+      "function": "Function F",
+      "eosEolStatus": "End of Life",
+      "memoryUsage": 8192,
+      "bandwidthUsage": 600,
+      "availability": 0.75
+    },
+    {
+      "title": "Asset 7",
+      "function": "Function G",
+      "eosEolStatus": "End of Support",
+      "memoryUsage": 16384,
+      "bandwidthUsage": 700,
+      "availability": 0.91
+    },
+    {
+      "title": "Asset 8",
+      "function": "Function H",
+      "eosEolStatus": "End of Life",
+      "memoryUsage": 32768,
+      "bandwidthUsage": 800,
+      "availability": 0.83
+    },
+    {
+      "title": "Asset 9",
+      "function": "Function I",
+      "eosEolStatus": "End of Support",
+      "memoryUsage": 65536,
+      "bandwidthUsage": 900,
+      "availability": 0.97
+    },
+    {
+      "title": "Asset 10",
+      "function": "Function J",
+      "eosEolStatus": "End of Life",
+      "memoryUsage": 131072,
+      "bandwidthUsage": 1000,
+      "availability": 0.81
+    }
+  ],
+  "overallAvailability": [
+    {
+      "date": "2024-01-01",
+      "availability": 0.96
+    },
+    {
+      "date": "2024-02-01",
+      "availability": 0.94
+    },
+    {
+      "date": "2024-03-01",
+      "availability": 0.92
+    },
+    {
+      "date": "2024-04-01",
+      "availability": 0.91
+    },
+    {
+      "date": "2024-05-01",
+      "availability": 0.93
+    },
+    {
+      "date": "2024-06-01",
+      "availability": 0.95
+    },
+    {
+      "date": "2024-07-01",
+      "availability": 0.97
+    },
+    {
+      "date": "2024-08-01",
+      "availability": 0.98
+    },
+    {
+      "date": "2024-09-01",
+      "availability": 0.96
+    },
+    {
+      "date": "2024-10-01",
+      "availability": 0.95
+    }
+  ],
+  "currentAndLatestFirmwareVersion": [
+    {
+      "currentVersion": "1.0.0",
+      "latestVersion": "1.2.0"
+    },
+    {
+      "currentVersion": "2.1.0",
+      "latestVersion": "2.3.0"
+    },
+    {
+      "currentVersion": "3.3.0",
+      "latestVersion": "3.5.0"
+    },
+    {
+      "currentVersion": "4.2.0",
+      "latestVersion": "4.4.0"
+    },
+    {
+      "currentVersion": "5.1.0",
+      "latestVersion": "5.3.0"
+    },
+    {
+      "currentVersion": "6.0.0",
+      "latestVersion": "6.2.0"
+    },
+    {
+      "currentVersion": "7.5.0",
+      "latestVersion": "7.7.0"
+    },
+    {
+      "currentVersion": "8.3.0",
+      "latestVersion": "8.5.0"
+    },
+    {
+      "currentVersion": "9.2.0",
+      "latestVersion": "9.4.0"
+    },
+    {
+      "currentVersion": "10.0.0",
+      "latestVersion": "10.2.0"
+    }
+  ]
+}

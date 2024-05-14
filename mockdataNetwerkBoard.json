@@ -1,0 +1,325 @@
+{
+  "assets": [
+    {
+      "title": "Asset 1",
+      "function": "Function 1",
+      "eosEolStatus": "Status 1",
+      "memoryUsage": 512,
+      "bandwidthUsage": 100,
+      "availability": 95
+    },
+    {
+      "title": "Asset 2",
+      "function": "Function 2",
+      "eosEolStatus": "Status 2",
+      "memoryUsage": 1024,
+      "bandwidthUsage": 200,
+      "availability": 90
+    },
+    {
+      "title": "Asset 3",
+      "function": "Function 3",
+      "eosEolStatus": "Status 3",
+      "memoryUsage": 2048,
+      "bandwidthUsage": 150,
+      "availability": 85
+    },
+    {
+      "title": "Asset 4",
+      "function": "Function 4",
+      "eosEolStatus": "Status 4",
+      "memoryUsage": 4096,
+      "bandwidthUsage": 250,
+      "availability": 80
+    },
+    {
+      "title": "Asset 5",
+      "function": "Function 5",
+      "eosEolStatus": "Status 5",
+      "memoryUsage": 8192,
+      "bandwidthUsage": 180,
+      "availability": 75
+    },
+    {
+      "title": "Asset 6",
+      "function": "Function 6",
+      "eosEolStatus": "Status 6",
+      "memoryUsage": 16384,
+      "bandwidthUsage": 300,
+      "availability": 70
+    },
+    {
+      "title": "Asset 7",
+      "function": "Function 7",
+      "eosEolStatus": "Status 7",
+      "memoryUsage": 32768,
+      "bandwidthUsage": 220,
+      "availability": 65
+    },
+    {
+      "title": "Asset 8",
+      "function": "Function 8",
+      "eosEolStatus": "Status 8",
+      "memoryUsage": 65536,
+      "bandwidthUsage": 270,
+      "availability": 60
+    },
+    {
+      "title": "Asset 9",
+      "function": "Function 9",
+      "eosEolStatus": "Status 9",
+      "memoryUsage": 131072,
+      "bandwidthUsage": 240,
+      "availability": 55
+    },
+    {
+      "title": "Asset 10",
+      "function": "Function 10",
+      "eosEolStatus": "Status 10",
+      "memoryUsage": 262144,
+      "bandwidthUsage": 350,
+      "availability": 50
+    },
+    {
+      "title": "Asset 11",
+      "function": "Function 11",
+      "eosEolStatus": "Status 11",
+      "memoryUsage": 524288,
+      "bandwidthUsage": 280,
+      "availability": 45
+    },
+    {
+      "title": "Asset 12",
+      "function": "Function 12",
+      "eosEolStatus": "Status 12",
+      "memoryUsage": 1048576,
+      "bandwidthUsage": 400,
+      "availability": 40
+    },
+    {
+      "title": "Asset 13",
+      "function": "Function 13",
+      "eosEolStatus": "Status 13",
+      "memoryUsage": 2097152,
+      "bandwidthUsage": 320,
+      "availability": 35
+    },
+    {
+      "title": "Asset 14",
+      "function": "Function 14",
+      "eosEolStatus": "Status 14",
+      "memoryUsage": 4194304,
+      "bandwidthUsage": 450,
+      "availability": 30
+    },
+    {
+      "title": "Asset 15",
+      "function": "Function 15",
+      "eosEolStatus": "Status 15",
+      "memoryUsage": 8388608,
+      "bandwidthUsage": 380,
+      "availability": 25
+    }
+  ],
+  "licenses": [
+    {
+      "license": "License 1",
+      "expiryDate": "2023-12-31"
+    },
+    {
+      "license": "License 2",
+      "expiryDate": "2024-10-15"
+    },
+    {
+      "license": "License 3",
+      "expiryDate": "2025-05-20"
+    },
+    {
+      "license": "License 4",
+      "expiryDate": "2026-08-01"
+    },
+    {
+      "license": "License 5",
+      "expiryDate": "2027-04-15"
+    },
+    {
+      "license": "License 6",
+      "expiryDate": "2028-11-30"
+    },
+    {
+      "license": "License 7",
+      "expiryDate": "2029-09-25"
+    },
+    {
+      "license": "License 8",
+      "expiryDate": "2030-06-10"
+    },
+    {
+      "license": "License 9",
+      "expiryDate": "2031-03-05"
+    },
+    {
+      "license": "License 10",
+      "expiryDate": "2032-12-20"
+    },
+    {
+      "license": "License 11",
+      "expiryDate": "2033-10-14"
+    },
+    {
+      "license": "License 12",
+      "expiryDate": "2034-07-29"
+    },
+    {
+      "license": "License 13",
+      "expiryDate": "2035-04-23"
+    },
+    {
+      "license": "License 14",
+      "expiryDate": "2036-01-18"
+    },
+    {
+      "license": "License 15",
+      "expiryDate": "2037-08-03"
+    }
+  ],
+  "overallBandwidthandAvailabilityChartData": [
+    {
+      "date": "2023-01-01",
+      "bandwidth": 500,
+      "availability": 90
+    },
+    {
+      "date": "2023-02-01",
+      "bandwidth": 550,
+      "availability": 88
+    },
+    {
+      "date": "2023-03-01",
+      "bandwidth": 600,
+      "availability": 85
+    },
+    {
+      "date": "2023-04-01",
+      "bandwidth": 650,
+      "availability": 82
+    },
+    {
+      "date": "2023-05-01",
+      "bandwidth": 700,
+      "availability": 80
+    },
+    {
+      "date": "2023-06-01",
+      "bandwidth": 750,
+      "availability": 78
+    },
+    {
+      "date": "2023-07-01",
+      "bandwidth": 800,
+      "availability": 75
+    },
+    {
+      "date": "2023-08-01",
+      "bandwidth": 850,
+      "availability": 72
+    },
+    {
+      "date": "2023-09-01",
+      "bandwidth": 900,
+      "availability": 70
+    },
+    {
+      "date": "2023-10-01",
+      "bandwidth": 950,
+      "availability": 68
+    },
+    {
+      "date": "2023-11-01",
+      "bandwidth": 1000,
+      "availability": 65
+    },
+    {
+      "date": "2023-12-01",
+      "bandwidth": 1050,
+      "availability": 62
+    },
+    {
+      "date": "2024-01-01",
+      "bandwidth": 1100,
+      "availability": 60
+    },
+    {
+      "date": "2024-02-01",
+      "bandwidth": 1150,
+      "availability": 58
+    },
+    {
+      "date": "2024-03-01",
+      "bandwidth": 1200,
+      "availability": 55
+    }
+  ],
+  "currentAndLatestFirmwareVersion": [
+    {
+      "currentVersion": "1.0",
+      "latestVersion": "2.0"
+    },
+    {
+      "currentVersion": "1.1",
+      "latestVersion": "2.1"
+    },
+    {
+      "currentVersion": "1.2",
+      "latestVersion": "2.2"
+    },
+    {
+      "currentVersion": "1.3",
+      "latestVersion": "2.3"
+    },
+    {
+      "currentVersion": "1.4",
+      "latestVersion": "2.4"
+    },
+    {
+      "currentVersion": "1.5",
+      "latestVersion": "2.5"
+    },
+    {
+      "currentVersion": "1.6",
+      "latestVersion": "2.6"
+    },
+    {
+      "currentVersion": "1.7",
+      "latestVersion": "2.7"
+    },
+    {
+      "currentVersion": "1.8",
+      "latestVersion": "2.8"
+    },
+    {
+      "currentVersion": "1.9",
+      "latestVersion": "2.9"
+    },
+    {
+      "currentVersion": "2.0",
+      "latestVersion": "3.0"
+    },
+    {
+      "currentVersion": "2.1",
+      "latestVersion": "3.1"
+    },
+    {
+      "currentVersion": "2.2",
+      "latestVersion": "3.2"
+    },
+    {
+      "currentVersion": "2.3",
+      "latestVersion": "3.3"
+    },
+    {
+      "currentVersion": "2.4",
+      "latestVersion": "3.4"
+    }
+  ]
+}
