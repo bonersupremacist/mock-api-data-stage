@@ -1,0 +1,96 @@
+{
+  "licenses": [
+    {
+      "license": "License A",
+      "expiryDate": "2024-06-30"
+    },
+    {
+      "license": "License B",
+      "expiryDate": "2024-08-15"
+    },
+    {
+      "license": "License C",
+      "expiryDate": "2024-09-20"
+    }
+  ],
+  "assets": [
+    {
+      "title": "Asset 1",
+      "function": "Function A",
+      "eosEolStatus": "Active",
+      "memoryUsage": 256,
+      "bandwidthUsage": 100,
+      "availability": 98
+    },
+    {
+      "title": "Asset 2",
+      "function": "Function B",
+      "eosEolStatus": "Inactive",
+      "memoryUsage": 512,
+      "bandwidthUsage": 200,
+      "availability": 95
+    },
+    {
+      "title": "Asset 3",
+      "function": "Function C",
+      "eosEolStatus": "Active",
+      "memoryUsage": 1024,
+      "bandwidthUsage": 300,
+      "availability": 99
+    },
+    {
+      "title": "Asset 4",
+      "function": "Function D",
+      "eosEolStatus": "Active",
+      "memoryUsage": 768,
+      "bandwidthUsage": 250,
+      "availability": 97
+    },
+    {
+      "title": "Asset 5",
+      "function": "Function E",
+      "eosEolStatus": "Active",
+      "memoryUsage": 2048,
+      "bandwidthUsage": 400,
+      "availability": 96
+    },
+    {
+      "title": "Asset 6",
+      "function": "Function F",
+      "eosEolStatus": "Active",
+      "memoryUsage": 128,
+      "bandwidthUsage": 50,
+      "availability": 99
+    },
+    {
+      "title": "Asset 7",
+      "function": "Function G",
+      "eosEolStatus": "Active",
+      "memoryUsage": 4096,
+      "bandwidthUsage": 600,
+      "availability": 94
+    }
+  ],
+  "overallAvailability": [
+    {
+      "date": "2024-05-01",
+      "availability": 97
+    },
+    {
+      "date": "2024-05-02",
+      "availability": 98
+    },
+    {
+      "date": "2024-05-03",
+      "availability": 96
+    },
+    {
+      "date": "2024-05-04",
+      "availability": 99
+    },
+    {
+      "date": "2024-05-05",
+      "availability": 97
+    }
+  ]
+}
