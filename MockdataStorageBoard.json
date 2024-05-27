@@ -100125,8 +100125,8 @@
       "IOPS": 900
     },
     {
-      "assetName": "Asset8",
-      "IOPS": 1000
+      "assetName": "Asset1000",
+      "IOPS": 100000
     }
   ]
 }
