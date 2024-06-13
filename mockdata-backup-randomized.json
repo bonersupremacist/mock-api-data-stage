@@ -1,42 +1,150 @@
 {
-  "typeAChartData": [
-    { "name": "Success Type A", "value": 20 },
-    { "name": "Warning Type A", "value": 10 },
-    { "name": "Failed Type A", "value": 5 }
-  ],
-  "openAndClosedData": [
-    { "name": "Open Tickets", "value": 100 },
-    { "name": "Closed Tickets", "value": 50 }
-  ],
-  "backupData": [
-    { "name": "Backup Assets", "value": 200 },
-    { "name": "Invalid Backup Assets", "value": 50 },
-    { "name": "Total Assets", "value": 250 }
-  ],
-  "typeBChartData": [
-    { "name": "Success Type B", "value": 15 },
-    { "name": "Warning Type B", "value": 8 },
-    { "name": "Failed Type B", "value": 3 }
-  ],
-  "backupServersData": [
-    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
-    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
-    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
-    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
-    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
-  ],
-  "fastestGrowingData": [
-    "Asset 1", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
-  ],
-  "backupIssuesData": [
-    "Issue 1", "Issue 2", "Issue 3", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
-  ],
-  "biggestAssetsData": [
-    "Biggest Asset 1", "Biggest Asset 2", "Biggest Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
-  ]
+    "typeAChartData": [
+        {
+            "name": "Success Type A",
+            "value": 20
+        },
+        {
+            "name": "Warning Type A",
+            "value": 10
+        },
+        {
+            "name": "Failed Type A",
+            "value": 5
+        }
+    ],
+    "openAndClosedData": [
+        {
+            "name": "Open Tickets",
+            "value": 100
+        },
+        {
+            "name": "Closed Tickets",
+            "value": 50
+        }
+    ],
+    "backupData": [
+        {
+            "name": "Backup Assets",
+            "value": 200
+        },
+        {
+            "name": "Invalid Backup Assets",
+            "value": 50
+        },
+        {
+            "name": "Total Assets",
+            "value": 250
+        }
+    ],
+    "typeBChartData": [
+        {
+            "name": "Success Type B",
+            "value": 15
+        },
+        {
+            "name": "Warning Type B",
+            "value": 8
+        },
+        {
+            "name": "Failed Type B",
+            "value": 3
+        }
+    ],
+    "backupServersData": [
+        {
+            "name": "Server 1",
+            "software": "Software A",
+            "version": "v1.0",
+            "status": "Active"
+        },
+        {
+            "name": "Server 2",
+            "software": "Software B",
+            "version": "v2.0",
+            "status": "Inactive"
+        },
+        {
+            "name": "Server 1",
+            "software": "Software A",
+            "version": "v1.0",
+            "status": "Active"
+        },
+        {
+            "name": "Server 2",
+            "software": "Software B",
+            "version": "v2.0",
+            "status": "Inactive"
+        },
+        {
+            "name": "Server 1",
+            "software": "Software A",
+            "version": "v1.0",
+            "status": "Active"
+        },
+        {
+            "name": "Server 2",
+            "software": "Software B",
+            "version": "v2.0",
+            "status": "Inactive"
+        },
+        {
+            "name": "Server 1",
+            "software": "Software A",
+            "version": "v1.0",
+            "status": "Active"
+        },
+        {
+            "name": "Server 2",
+            "software": "Software B",
+            "version": "v2.0",
+            "status": "Inactive"
+        },
+        {
+            "name": "Server 1",
+            "software": "Software A",
+            "version": "v1.0",
+            "status": "Active"
+        },
+        {
+            "name": "Server 2",
+            "software": "Software B",
+            "version": "v2.0",
+            "status": "Inactive"
+        }
+    ],
+    "fastestGrowingData": [
+        "Asset 1",
+        "Asset 2",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3"
+    ],
+    "backupIssuesData": [
+        "Issue 1",
+        "Issue 2",
+        "Issue 3",
+        "Asset 2",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3"
+    ],
+    "biggestAssetsData": [
+        "Biggest Asset 1",
+        "Biggest Asset 2",
+        "Biggest Asset 3",
+        "Asset 2",
+        "Asset 3",
+        "Asset 3",
+        "Asset 2",
+        "Asset 3"
+    ]
 }
