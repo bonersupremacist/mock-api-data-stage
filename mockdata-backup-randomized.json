@@ -20,15 +20,23 @@
   ],
   "backupServersData": [
     { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
-    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" }
+    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
+    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
+    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
+    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
+    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
+    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
+    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
+    { "name": "Server 1", "software": "Software A", "version": "v1.0", "status": "Active" },
+    { "name": "Server 2", "software": "Software B", "version": "v2.0", "status": "Inactive" },
   ],
   "fastestGrowingData": [
-    "Asset 1", "Asset 2", "Asset 3"
+    "Asset 1", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
   ],
   "backupIssuesData": [
-    "Issue 1", "Issue 2", "Issue 3"
+    "Issue 1", "Issue 2", "Issue 3", "Asset 2", "Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
   ],
   "biggestAssetsData": [
-    "Biggest Asset 1", "Biggest Asset 2", "Biggest Asset 3"
+    "Biggest Asset 1", "Biggest Asset 2", "Biggest Asset 3", "Asset 2", "Asset 3", "Asset 3", "Asset 2", "Asset 3"
   ]
 }
